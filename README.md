@@ -24,6 +24,7 @@ Only meta data will be refreshed.
 - `<project>/meta_image.png` - 48x48¹ project icon as PNG.²
 
 ¹ If the icon is not 48x48 in size, it will be corrected to be 48x48.
+
 ² A GRP located as `<project>/BMETA_IMAGE.GRP` can be used as a replacement and CyberYoshi64 will replace it with a *meta_image.png* equivalent.
 
 #### When requirements are met for your project…
