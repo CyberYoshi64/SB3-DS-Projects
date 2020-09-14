@@ -1,3 +1,12 @@
-1;
-DUMMY_PRJ :: Dummy project :: Used for testing purposes (contains SKKBAUI's files) :: 1 :: 
+2 ::
+DUMMY_PRJ ::
+Dummy project ::
+Used for testing purposes (contains SKKBAUI's files) ::
+1024 ::
+
+DUMMY_PRJ ::
+Dummy project #2 ::
+blabla ::
+1024 ::
+
 
