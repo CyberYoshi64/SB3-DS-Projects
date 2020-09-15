@@ -23,9 +23,9 @@ Only meta data will be refreshed.
 - `<project>/TMETA_NAME.TXT` - Name, creator and description of the project (have tag "Name:" etc. before the name and avoid using " ::")
 - `<project>/meta_image.png` - 48x48¹ project icon as PNG.²
 
-¹ If the icon is not 48x48 in size, it will be corrected to be 48x48.
+¹ If the icon is not 48x48 in size, it will be corrected to be 48x48 in `prjic.t3x`.
 
-² A GRP located as `<project>/BMETA_IMAGE.GRP` can be used as a replacement and CyberYoshi64 will replace it with a *meta_image.png* equivalent.
+² A GRP located as `<project>/BMETA_IMAGE.GRP` can be used as a replacement and CyberYoshi64 will replace it with a png equivalent.
 
 #### When requirements are met for your project…
 
