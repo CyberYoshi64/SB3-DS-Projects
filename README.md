@@ -20,7 +20,7 @@ Only meta data will be refreshed.
 
 - Project files are contained in the project folder (keep folder and file names)
 - Project files are copied straight from SmileBASIC's extData (raw format)
-- `<project>/TMETA_NAME.TXT` - Name and description of the project
+- `<project>/TMETA_NAME.TXT` - Name, creator and description of the project (have tag "Name:" etc. before the name and avoid using " ::")
 - `<project>/meta_image.png` - 48x48¹ project icon as PNG.²
 
 ¹ If the icon is not 48x48 in size, it will be corrected to be 48x48.
