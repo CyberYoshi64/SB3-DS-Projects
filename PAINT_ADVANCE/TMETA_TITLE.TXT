@@ -1,0 +1,2 @@
+Title: Paint Advance!
+Desc: An awesome painting app, with saving and brushes!
