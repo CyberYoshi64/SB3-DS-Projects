@@ -13,3 +13,5 @@ PAINT_ADVANCE ::
 Paint Advance! ::
 An awesome painting app, with saving and brushes! ::
 1 ::
+
+# If you read this in the app, then you are cheating.
