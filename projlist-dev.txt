@@ -1,0 +1,40 @@
+6 ::
+DUMMY_PRJ ::
+Dummy project ::
+Used for testing purposes (contains サカキバラUI's files) ::
+1024 :: 1000 ::
+
+DUMMY_PRJ ::
+Dummy project #2 ::
+blabla ::
+1024 :: 1000 ::
+
+PAINT_ADVANCE ::
+Paint Advance! ::
+An awesome painting app, with saving and brushes! ::
+1 :: 1000 ::
+
+DUMMY_PRJ ::
+ダミープロジェクト ::
+このプロジェクトはダミーなので、 いずれ削除されます。
+
+これが読めて、 日本人じゃないなら、 ズルいですよ。
+
+(あ、待って、私も騙された) ::
+1048576 :: 0100 ::
+
+DUMMY_PRJ ::
+ダミープロジェクト ::
+このプロジェクトはダミーなので、 いずれ削除されます。
+
+これが読めて、 日本人じゃないなら、 ズルいですよ。
+
+(あ、待って、私も騙された) ::
+2146132495 :: 0010 ::
+
+DUMMY_PRJ ::
+фиктивный проект ::
+Этот проект является манекеном и вскоре может быть удален. ::
+0 :: 0001 ::
+
+# If you read this in the app, then you are cheating.
