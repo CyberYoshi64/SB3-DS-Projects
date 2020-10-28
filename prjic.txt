@@ -1,1 +1,1 @@
---atlas -o 'prjic.t3x' 'DUMMY_PRJ/meta_icon.png' 'DUMMY_PRJ/meta_icon.png' 'PAINT_ADVANCE/meta_icon.png'
+tex3ds --atlas -o 'prjic.t3x' 'DUMMY_PRJ/meta_icon.png' 'PAINT_ADVANCE/meta_icon.png'
