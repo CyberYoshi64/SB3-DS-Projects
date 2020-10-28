@@ -1,1 +1,2 @@
-tex3ds --atlas -o 'prjic.t3x' 'DUMMY_PRJ/meta_icon.png' 'PAINT_ADVANCE/meta_icon.png'
+#!/bin/sh
+tex3ds --atlas -o 'prjic.t3x' './-SAKAKIBARAUI-/meta_icon.png' './PAINT_ADVANCE/meta_icon.png'
